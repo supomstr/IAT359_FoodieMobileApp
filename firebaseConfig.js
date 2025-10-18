@@ -9,12 +9,12 @@ import { initializeAuth, getReactNativePersistence } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBjX_Tn-Xfepa7LdUEMD9PzG5h9K0ifSOw",
-  authDomain: "iat359-finalprojecttesting.firebaseapp.com",
-  projectId: "iat359-finalprojecttesting",
-  storageBucket: "iat359-finalprojecttesting.firebasestorage.app",
-  messagingSenderId: "605542330105",
-  appId: "1:605542330105:web:7bf2ce5fbe4c52edec3c28"
+  apiKey: "removed for security reasons",
+  authDomain: "iremoved for security reasons",
+  projectId: "removed for security reasons",
+  storageBucket: "removed for security reasons",
+  messagingSenderId: "removed for security reasons",
+  appId: "removed for security reasons"
 };
 
 // Initialize Firebase
