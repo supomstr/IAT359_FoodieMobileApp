@@ -16,7 +16,7 @@ Key Features:
 - 🗺️ Live User Location & Route Visualization using Expo Location
 - 💬 Personal Notes and Image Attachments per restaurant
 
-## 🧱 Technical Stack
+## Technical Stack
 
 - Framework: React Native (Expo)
 - Database: Firebase Firestore
