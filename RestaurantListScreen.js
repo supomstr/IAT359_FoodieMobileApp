@@ -29,7 +29,7 @@ const RestaurantListScreen = () => {
           }
   
           //If no cached data, fetch from Google Places API
-          const apiKey = "AIzaSyBj-DzHK0Z04dPkkdTfgEqXiS4eJS-cD2o";
+          const apiKey = "removed for security reasons";
           const url = `https://maps.googleapis.com/maps/api/place/details/json?place_id=${restaurant.placeId}&fields=reviews&key=${apiKey}`;
           const response = await fetch(url);
           const data = await response.json();
